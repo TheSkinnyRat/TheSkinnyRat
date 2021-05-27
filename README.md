@@ -1,5 +1,6 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=theskinnyrat.theskinnyrat)
-![Followers](https://img.shields.io/github/followers/TheSkinnyRat?style=social)
+![TheSkinnyRat's visitors](https://visitor-badge.laobi.icu/badge?page_id=theskinnyrat.theskinnyrat)
+![TheSkinnyRat's Followers](https://img.shields.io/github/followers/TheSkinnyRat?style=social)
+![TheSkinnyRat's Starts](https://img.shields.io/github/stars/theskinnyrat?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 # Hello World 👋
 
 <p align="center">
