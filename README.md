@@ -2,5 +2,8 @@
 ![Followers](https://img.shields.io/github/followers/TheSkinnyRat?style=social)
 # Hello World 👋
 
-<img src="https://ramadhan-block.r.server.nyrat.id/assets/frontend/img/cat-girl.gif" width="150">\
-_***~What are you looking for?***_
+<p align="center">
+  <img src="https://ramadhan-block.r.server.nyrat.id/assets/frontend/img/cat-girl.gif" width="150" />
+  <br>
+  <b><i>~What are you looking for<i></b>
+</p>
