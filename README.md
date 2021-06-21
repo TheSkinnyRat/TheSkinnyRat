@@ -2,7 +2,12 @@
 
 I am a software engineering from Indonesian.
 
-Who just like ⌨ code, 🍀 anime, and 🎮 game!.
+- ⌨ Code
+- 🍀 Anime
+- 🎮 Game
+- 🔁 Repeat
+
+---
 
 ### My projects
 
