@@ -6,16 +6,15 @@ Who just like ⌨ code, 🍀 anime, and 🎮 game!.
 
 ### My projects
 
-### 👨‍🎓 School
+#### 👨‍🎓 School
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=schoolmate&show_owner=false" width=460 height=180>
+<a href="https://github.com/TheSkinnyRat/schoolmate" target="_blank"><img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=schoolmate&show_owner=false" width=370 height=110></a>
+  
+<a href="https://github.com/TheSkinnyRat/sarpras" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=sarpras&show_owner=false" width=370 height=110></a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=sarpras&show_owner=false" width=460 height=180>
-
-### 🌍 Most used languages
+#### 🌍 Most used languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theskinnyrat&langs_count=10&layout=compact&card_width=400&hide_title=true">
-
 <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=theskinnyrat.theskinnyrat">
 
 ---
