@@ -1,10 +1,26 @@
-![TheSkinnyRat's visitors](https://visitor-badge.laobi.icu/badge?page_id=theskinnyrat.theskinnyrat)
-![TheSkinnyRat's Followers](https://img.shields.io/github/followers/TheSkinnyRat?style=social)
-![TheSkinnyRat's Starts](https://img.shields.io/github/stars/theskinnyrat?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+### 👋 Hello World <img align='right' src="https://github-readme-stats.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180>
 
-<h1 align="center">Hello World 👋</h1>
+I am a software engineering from Indonesian.
+
+Who just like ⌨ code, 🍀 anime, and 🎮 game!.
+
+### My projects
+
+### 👨‍🎓 School
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=schoolmate&show_owner=false" width=460 height=180>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=sarpras&show_owner=false" width=460 height=180>
+
+### 🌍 Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theskinnyrat&langs_count=10&layout=compact&card_width=400&hide_title=true">
+
+<img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=theskinnyrat.theskinnyrat">
+
+---
 <p align="center">
-  <img src="https://ramadhan-block.r.server.nyrat.id/assets/frontend/img/cat-girl.gif" width="150" />
+  <a href="http://nyrat.id" target="_blank"><img src="https://ramadhan-block.r.server.nyrat.id/assets/frontend/img/cat-girl.gif" width="150" /></a>
   <br>
   <b><i>~What are you looking for<i></b>
 </p>
