@@ -1,4 +1,4 @@
-### 👋 Hello World <img align='right' src="https://github-readme-stats.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180>
+### Hello World <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow attention" /> <img align='right' src="https://github-readme-stats.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180>
 
 I am a software engineering from Indonesian.
 
@@ -24,7 +24,7 @@ I am a software engineering from Indonesian.
 
 ---
 <p align="center">
-  <a href="http://nyrat.id" target="_blank"><img src="https://ramadhan-block.r.server.nyrat.id/assets/frontend/img/cat-girl.gif" width="150" /></a>
+  <a href="http://nyrat.id" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="150" /></a>
   <br>
   <b><i>~What are you looking for<i></b>
 </p>
