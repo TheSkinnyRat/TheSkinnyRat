@@ -2,10 +2,10 @@
 
 I am a software engineering from Indonesian.
 
-- ⌨ Code
-- 🍀 Anime
-- 🎮 Game
-- 🔁 Repeat
+- ⌨
+- 🍀
+- 🎮
+- 🔁
 
 ---
 
