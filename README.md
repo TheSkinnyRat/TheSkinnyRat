@@ -2,10 +2,7 @@
 
 I am a software engineering from Indonesian.
 
-- ⌨
-- 🍀
-- 🎮
-- 🔁
+⌨ 🍀 🎮 🔁
 
 ---
 
