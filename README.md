@@ -1,4 +1,4 @@
-### Hello World <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow attention" /> <img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180>
+### Hello World <a href="https://github.com/TheSkinnyRat/schoolmate" target="_blank"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow attention" /> <img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180><a/>
 
 I am a software engineering from Indonesian.
 
