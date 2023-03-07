@@ -1,4 +1,4 @@
-### Hello World <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow attention" /> <img align='right' src="https://github-readme-stats.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180>
+### Hello World <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow attention" /> <img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats" width=460 height=180>
 
 I am a software engineering from Indonesian.
 
@@ -10,13 +10,13 @@ I am a software engineering from Indonesian.
 
 #### 👨‍🎓 School
 
-<a href="https://github.com/TheSkinnyRat/schoolmate" target="_blank"><img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=schoolmate&show_owner=false" width=370 height=110></a>
+<a href="https://github.com/TheSkinnyRat/schoolmate" target="_blank"><img align='left' src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=theskinnyrat&repo=schoolmate&show_owner=false" width=370 height=110></a>
   
-<a href="https://github.com/TheSkinnyRat/sarpras" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theskinnyrat&repo=sarpras&show_owner=false" width=370 height=110></a>
+<a href="https://github.com/TheSkinnyRat/sarpras" target="_blank"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=theskinnyrat&repo=sarpras&show_owner=false" width=370 height=110></a>
 
 #### 🌍 Most used languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theskinnyrat&langs_count=10&layout=compact&card_width=400&hide_title=true">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theskinnyrat&langs_count=10&layout=compact&card_width=400&hide_title=true">
 <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=theskinnyrat.theskinnyrat">
 
 ---
