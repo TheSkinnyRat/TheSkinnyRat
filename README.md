@@ -23,7 +23,7 @@ I am a software engineering from Indonesian.
 <!--   <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theskinnyrat&count_private=true&show_icons=true&theme=vue&include_all_commits=true&custom_title=TheSkinnyRat%27s%20Stats"/> -->
   <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheSkinnyRat&count_private=true&layout=compact&langs_count=10&theme=light&bg_color=FFFFFF"/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSkinnyRat&theme=light&fire=000000&ring=000000&currStreakLabel=000000"/>
-  <img width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheSkinnyRat&bg_color=F3F3F3&color=000000&line=48D348&point=4E4E4E&area=true&area_color=71E971&radius=16"/>
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheSkinnyRat&bg_color=F3F3F3&color=000000&line=48D348&point=4E4E4E&area=true&area_color=71E971&radius=16"/>
 </a>
 </p>
 
