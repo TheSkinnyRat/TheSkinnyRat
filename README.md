@@ -9,12 +9,12 @@
 
 Hello World 👋
 
-I'm a junior full-stack software engineer. Specializing in the website and backend ecosystem development, constantly exploring the realms of creativity through coding. I thrive on bringing digital ideas to life, join me on this exciting journey as we craft innovative solutions that push the boundaries of what's possible in the digital world~.
+I'm a full-stack software engineer. Specializing in the website and backend ecosystem development, constantly exploring the realms of creativity through coding. I thrive on bringing digital ideas to life, join me on this exciting journey as we craft innovative solutions that push the boundaries of what's possible in the digital world~.
 
 ---
 
 🚀 Some of my (maintained) main projects:
-- [TSR Discord Music Bot](https://bot.nyrat.id) - a discord music bot with real-time web player control
+- [TSR Discord Music Bot](https://bot.theskinnyrat.com) - a discord music bot with real-time web player control
 - [WAQC](https://play.google.com/store/apps/details?id=id.nyrat.waquickchat) - the Android app that can create some click-to-chat WhatsApp link
 - [Anime Screenshot Pipeline Colab](https://github.com/TheSkinnyRat/anime_screenshot_pipeline_colab) - google colab version of semi-automatic pipeline to extract image training set from anime for generative model training.
 - [and more...](https://github.com/TheSkinnyRat?tab=repositories)
