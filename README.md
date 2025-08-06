@@ -13,24 +13,7 @@ I'm a full-stack software engineer. Specializing in the website and backend ecos
 
 ---
 
-🚀 Some of my (maintained) main projects:
-- [TSR Discord Music Bot](https://bot.theskinnyrat.com) - a discord music bot with real-time web player control
-- [and more...](https://github.com/TheSkinnyRat?tab=repositories)
-
-⚙️ Programming languages I've experienced with:
-- [Typescript](https://typescriptlang.org)
-- [Javascript](https://javascript.com)
-- [PHP](https://php.net)
-- [Python](https://python.org)
-
-🔧 Tech stack I've experienced with:
-- [Next.JS](https://nextjs.org)
-- [React](https://react.dev)
-- [Laravel](https://laravel.com)
-- [Express.JS](https://expressjs.com)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Bootstrap](https://getbootstrap.com)
-- [and more...](https://github.com/TheSkinnyRat?tab=repositories)
+[purwa.theskinnyrat.com](https://purwa.theskinnyrat.com/)
 
 ---
 
